@@ -19,6 +19,7 @@
     "test": "mocha --reporter spec test/test"
   },
   "dependencies": {
+    "acorn-jsx": "^0.9.1-1",
     "ast-types": "^0.3.29",
     "escodegen": "^1.3.3",
     "estraverse": "^1.0.0",
